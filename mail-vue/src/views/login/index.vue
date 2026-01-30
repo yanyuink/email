@@ -141,9 +141,7 @@
       </div>
     </el-dialog>
     <a class="github" href="https://github.com/maillab/cloud-mail">
-      <Icon icon="mingcute:github-line" color="#1890ff" width="20" height="20" />
-    </a>
-  </div>
+     
 </template>
 
 <script setup>
