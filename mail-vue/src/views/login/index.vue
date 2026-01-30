@@ -140,10 +140,7 @@
         </el-button>
       </div>
     </el-dialog>
-    
-           <Icon icon="mingcute:github-line" color="#1890ff" width="20" height="20" />
-    </a>
-  </div>
+     
 </template>
 
 <script setup>
